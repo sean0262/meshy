@@ -1,2 +1,2 @@
-# meshy
-Simple Meshstastic CLI Chat Client
+# Meshy
+Meshy is a simple Meshstastic Console-based Chat Client
